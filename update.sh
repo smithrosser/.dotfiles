@@ -3,7 +3,8 @@
 # Variables
 # ----------------------------------------------------------------------------------------
 
-USER_HOME="/home/tom"
+USER_NAME="tom"
+USER_HOME="/home/${USER_NAME}"
 ZSHRC_PATH="${USER_HOME}/.zshrc"
 VSCODE_SETTINGS_PATH="${USER_HOME}/.config/Code/User/settings.json"
 ALACRITTY_SETTINGS_PATH="${USER_HOME}/.config/alacritty/alacritty.yml"

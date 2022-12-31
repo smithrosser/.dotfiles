@@ -1,8 +1,20 @@
 {
+    // Editor appearance
     "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
     "window.titleBarStyle": "custom",
     "editor.fontFamily": "Hasklig",
-    "editor.lineHeight": 25,
     "editor.fontSize": 15,
+    "editor.fontWeight": 500,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 25,
     "editor.renderWhitespace": "all",
+    "editor.cursorBlinking": "phase",
+
+    // Terminal appearance
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.lineHeight": 1.15,
+
+    // Editor behaviour
+    "editor.formatOnSave": true,
 }

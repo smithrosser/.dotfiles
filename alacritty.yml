@@ -10,13 +10,16 @@ font:
   size: 13
   normal:
     family: Hasklig
-    style: Regular
+    style: medium
   bold:
     family: Hasklig
-    style: Bold
+    style: bold
   italic:
     family: Hasklig
-    style: Italic
+    style: italic
   italic:
     family: Hasklig
-    style: Bold Italic
+    style: bold italic
+
+colors:
+  background_opacity: 0.95

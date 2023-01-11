@@ -7,18 +7,18 @@ window:
     y: 30
 
 font:
-  size: 13
+  size: 12
   normal:
-    family: Hasklig
+    family: Fira Code
     style: medium
   bold:
-    family: Hasklig
+    family: Fira Code
     style: bold
   italic:
-    family: Hasklig
+    family: Fira Code
     style: italic
   italic:
-    family: Hasklig
+    family: Fira Code
     style: bold italic
 
 colors:

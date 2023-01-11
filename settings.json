@@ -10,6 +10,10 @@
   "editor.lineHeight": 25,
   "editor.renderWhitespace": "all",
   "editor.cursorBlinking": "phase",
+  "editor.rulers": [
+    80,
+    120,
+  ],
   // Editor behaviour
   "editor.formatOnSave": true,
   // Terminal appearance

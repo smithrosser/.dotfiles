@@ -3,19 +3,25 @@
   "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.productIconTheme": "material-product-icons",
+  "workbench.tree.indent": 20,
+  "workbench.tree.renderIndentGuides": "always",
   "window.titleBarStyle": "custom",
+  "editor.fontSize": 15,
   "editor.fontFamily": "Fira Code",
-  "editor.fontWeight": 500,
+  "editor.fontWeight": 400,
   "editor.fontLigatures": true,
   "editor.lineHeight": 23,
   "editor.renderWhitespace": "all",
   "editor.cursorBlinking": "phase",
-  "editor.rulers": [
-    80,
-    120,
-  ],
+  "editor.rulers": [80, 120],
   // Editor behaviour
   "editor.formatOnSave": true,
+  "files.insertFinalNewline": true,
+  // Formatting behaviour
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
   // Terminal appearance
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontWeight": 500,
@@ -24,9 +30,9 @@
   "[Log]": {
     "editor.fontSize": 12,
     "editor.fontWeight": 400,
-    "editor.lineHeight": 0,
+    "editor.lineHeight": 0
   },
   // Debug appearance
   "debug.console.fontFamily": "Fira Code",
-  "debug.console.fontSize": 12,
+  "debug.console.fontSize": 12
 }
